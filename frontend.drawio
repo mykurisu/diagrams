@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T09:06:23.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="8oA_ToqdQUYG9S9fhLlb" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T08:15:26.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="byVAiCtXP7QLrKhXbstA" version="15.9.4" type="github">
   <diagram id="cojZr8byN8fDEDcUR9Kp" name="Page-1">
-    <mxGraphModel dx="4807" dy="3459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5438" dy="3917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,9 +229,6 @@
         </mxCell>
         <mxCell id="0lIIpM80aAEfrHi9KGEF-2" value="&lt;h1&gt;前端开发人力预分配&lt;/h1&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;已确定的前端业务项目：&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;用户端&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;药师端&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;管理后端&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;需要额外投入人力开发的前端基础项目：&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;H5脚手架开发与维护&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;配置中台&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;基础插件&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;目前已明确的人员数量大概是&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;3名正职+N名外包&lt;/b&gt;&lt;/font&gt;，于是有如下预分配方案：&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;每个前端业务项目都由一名正职进行项目进度把控，并配备1~N名前端外包(外包人力形成一个&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;人力共享池&lt;/b&gt;&lt;/font&gt; -- 入职培训以及规范落地尤为重要)。&lt;/p&gt;&lt;p style=&quot;line-height: 1.4&quot;&gt;除此之外每位正职员工还需至少&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;分配一半的人力&lt;/b&gt;&lt;/font&gt;进行前端基础项目的开发，前端基础项目的开发则由前端负责人主导，并输出排期表。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;" parent="0lIIpM80aAEfrHi9KGEF-1" vertex="1">
           <mxGeometry x="17" y="40" width="783" height="960" as="geometry" />
-        </mxCell>
-        <mxCell id="krH7-MdWGnkCNxfSbETG-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;需要时常复盘方案，谨防过度设计&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-220" width="290" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
